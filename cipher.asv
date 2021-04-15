@@ -1,0 +1,6 @@
+function enc = cipher(msg,a,b,cipher)
+    msg=upper(msg);
+    for i = 1:length(msg)
+        msg(i)
+    end
+end
